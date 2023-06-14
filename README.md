@@ -9,12 +9,13 @@
   <a href="https://www.linkedin.com/in/kelechi-oguh-808739193/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="mailto:kelechi.oguh505@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=contact me&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
-###
 
-
-###
+<br><be>
 
 <h1 align="center">Welcome to My Portfolio</h1>
 
@@ -32,12 +33,11 @@
 
 <h4 align="left">- 🔭 I’m currently working on **building my portfolio**<br><br>- 🌱 I’m currently learning **API security and Devops**<br><br>- 👯 I’m looking to collaborate on **exciting projects**<br><br>- 💬 Ask me about **web development**<br><br>- 📫 How to reach me **kelechi.oguh505@gmail.com**<br><br>- ⚡ Fun fact: ...</h4>
 
-###
 
-<br clear="both">
 
 <div id="projects">
   <br><be> 
+  <br><be>
   <h2 align="left">🔥 Have a look at my Projects :</h2>
 
 
@@ -63,16 +63,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
 
 ###
 
@@ -81,7 +86,7 @@
 
 ###
 
-# 📊 My GitHub Stats:
+## 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelechi-oguh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kelechi-oguh&theme=dark&hide_border=false)
 
@@ -92,4 +97,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kelechi-oguh&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--  end -->
