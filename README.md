@@ -1,6 +1,6 @@
 <div align="center">
   <!--<img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  /> -->
-  <a href="https://github.com/Kelechi-oguh/Kelechi-oguh/edit/main/README.md#-have-a-look-at-my-projects-">
+  <a href="#projects">
     <img height="400" width="1000" src="https://github.com/Kelechi-oguh/Kelechi-oguh/blob/main/profile_banner_1.png"/>
   </a>
 </div>
@@ -13,11 +13,10 @@
 
 ###
 
-<h1 align="center">Hello 👋</h1>
 
 ###
 
-<h1 align="center">Welcome to my Portfolio</h1>
+<h1 align="center">Welcome to My Portfolio</h1>
 
 ###
 
@@ -25,7 +24,7 @@
 
 ###
 
-<h3 align="left">**I am a passionate Backend Developer**</h3>
+**<h3 align="left">I am a passionate Backend Developer</h3>**
 
 ###
 
@@ -37,16 +36,18 @@
 
 <br clear="both">
 
-<h2 align="left">🔥 Have a look at my Projects :</h2>
+<div id="projects">
+  <h2 align="left">🔥 Have a look at my Projects :</h2>
 
-###
 
-<!-- <br><be> -->
+  <!-- <br><be> -->
 
-<ul align="left">
-  <li><h3><a href="google.com">Tourism Lagos</a></h3></li>
-  <li><h3><a href="google.com">LannisterPay (TPSS)</a></h3></li>
-</ul>
+  <ul align="left">
+    <li><h3><a href="google.com">Tourism Lagos</a></h3></li>
+    <li><h3><a href="google.com">LannisterPay (TPSS)</a></h3></li>
+  </ul>
+</div>
+
 
 ###
 
