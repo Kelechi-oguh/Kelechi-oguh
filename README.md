@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<h4 align="left">- 🔭 I’m currently working on **building my portfolio**<br><br>- 🌱 I’m currently learning **API security and Devops**<br><br>- 👯 I’m looking to collaborate on **exciting projects**<br><br>- 💬 Ask me about **web development**<br><br>- 📫 How to reach me **kelechi.oguh505@gmail.com**<br><br>- ⚡ Fun fact: ...</h4>
+<h4 align="left">- 🔭 I’m currently working on **building my portfolio**<br><br>- 🌱 I’m currently learning **API security and Devops**<br><br>- 👯 I’m looking to collaborate on **exciting projects**<br><br>- 💬 Ask me about **web development**
 
 
 
