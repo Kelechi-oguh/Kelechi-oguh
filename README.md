@@ -44,8 +44,8 @@
   <!-- <br><be> -->
 
   <ul align="left">
-    <li><h3><a href="google.com">Tourism Lagos</a></h3></li>
-    <li><h3><a href="google.com">LannisterPay (TPSS)</a></h3></li>
+    <li><h3><a href="https://tourismlagos-production.up.railway.app/">Tourism Lagos</a></h3></li>
+    <li><h3><a href="https://lannisterpay-production.up.railway.app/">LannisterPay (TPSS)</a></h3></li>
   </ul>
 </div>
 
