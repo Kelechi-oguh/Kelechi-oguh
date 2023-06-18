@@ -31,7 +31,11 @@
 
 <br clear="both">
 
-<h4 align="left">- 🔭 I’m currently working on **building my portfolio**<br><br>- 🌱 I’m currently learning **API security and Devops**<br><br>- 👯 I’m looking to collaborate on **exciting projects**<br><br>- 💬 Ask me about **web development**
+  - 🔭 I’m currently working on **building my portfolio**<br><br>
+  - 🌱 I’m currently learning **API security and Devops**<br><br>
+  - 👯 I’m looking to collaborate on **exciting projects**<br><br>
+  - 💬 Ask me about **web development**
+
 
 
 
