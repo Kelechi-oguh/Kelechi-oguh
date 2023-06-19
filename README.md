@@ -25,7 +25,7 @@
 
 ###
 
-**<h3 align="left">I am a passionate Backend Developer</h3>**
+### I am a passionate Backend Developer with experience developing web APIs and Full-Stack web applications. I write readable code that can be tested based on industry standards.
 
 ###
 
