@@ -25,7 +25,7 @@
 
 ###
 
-### I am a passionate Backend Developer with experience developing web APIs and Full-Stack web applications. I write readable code that can be tested based on industry standards.
+### I am a passionate Backend Developer with experience developing secure APIs as well as Full-Stack web applications. I write readable and testable code based on industry standards and I can collaborate effectively on team projects.
 
 ###
 
