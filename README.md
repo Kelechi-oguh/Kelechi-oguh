@@ -41,8 +41,10 @@
   <br><be> 
   <br><be>
   <h2 align="left">🔥 Have a look at my Projects :</h2>
-
+  
   <!-- <br><be> -->
+  
+* *Sites are currently down, they'll be restored soon* *
 
   <ul align="left">
     <li><h3><a href="https://tourismlagos-production.up.railway.app/">Tourism Lagos</a></h3></li>
