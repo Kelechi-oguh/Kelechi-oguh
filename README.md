@@ -46,7 +46,7 @@
   
 
   <ul align="left">
-    <li><h3><a href="http://16.170.252.138">Tourism Lagos</a></h3></li>
+    <li><h3><a href="http://16.171.137.190">Tourism Lagos</a></h3></li>
     <li><h3><a href="http://16.171.42.250">LannisterPay (TPSS)</a></h3></li>
   </ul>
 </div>
