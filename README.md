@@ -44,10 +44,9 @@
   
   <!-- <br><be> -->
   
-* *Sites are currently down, they'll be restored soon* *
 
   <ul align="left">
-    <li><h3><a href="https://tourismlagos-production.up.railway.app/">Tourism Lagos</a></h3></li>
+    <li><h3><a href="http://16.170.252.138">Tourism Lagos</a></h3></li>
     <li><h3><a href="https://lannisterpay-production.up.railway.app/">LannisterPay (TPSS)</a></h3></li>
   </ul>
 </div>
