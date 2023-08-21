@@ -16,7 +16,7 @@
 
 <br><be>
 
-<h1 align="center">Welcome to My Portfolio</h1>
+<h1 align="center">My Portfolio</h1>
 
 ###
 
@@ -32,8 +32,7 @@
 
   - 🔭 I’m currently working on **building my portfolio**<br><br>
   - 🌱 I’m currently learning **API security and Devops**<br><br>
-  - 👯 I’m looking to collaborate on **exciting projects**<br><br>
-  - 💬 Ask me about **web development**
+  - 👯 I’m looking to collaborate on **exciting projects**<br><be>
 
 
 
@@ -46,7 +45,7 @@
   
 
   <ul align="left">
-    <li><h3><a href="http://13.53.78.89">Tourism Lagos</a></h3></li>
+    <li><h3><a href="http://16.170.224.211">Tourism Lagos</a></h3></li>
     <li><h3><a href="http://16.171.10.1">LannisterPay (TPSS)</a></h3></li>
   </ul>
 </div>
