@@ -39,7 +39,7 @@
 <div id="projects">
   <br><be> 
   <br><be>
-  <h2 align="left">🔥 Have a look at my Projects :</h2>
+  <h2 align="left">🔥 My Projects :</h2>
   
   <!-- <br><be> -->
   
