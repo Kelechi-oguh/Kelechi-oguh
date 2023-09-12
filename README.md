@@ -45,9 +45,8 @@
   
 
   <ul align="left">
-    <li><h3><a href="http://16.171.170.238">Tourism Lagos</a></h3></li>
-    <li><h3><a href="http://13.53.206.101">LannisterPay (TPSS)</a></h3></li>
-    <li><h3><a href="http://13.53.32.252">Bincom Assessment</a></h3></li>
+    <li><h3><a href="http://51.20.37.75">Tourism Lagos</a></h3></li>
+    <li><h3><a href="http://13.48.58.5">LannisterPay (TPSS)</a></h3></li>
   </ul>
 </div>
 
