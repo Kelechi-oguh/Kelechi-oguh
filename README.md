@@ -1,7 +1,7 @@
 <div align="center">
-  <!--<img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  /> -->
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
   <a href="#projects">
-    <!--<img height="400" width="1000" src="https://github.com/Kelechi-oguh/Kelechi-oguh/blob/main/profile_banner_1.png"/>-->
+    <img height="400" width="1000" src="https://github.com/Kelechi-oguh/Kelechi-oguh/blob/main/profile_banner_1.png"/>
   </a>
 </div>
 
@@ -24,14 +24,14 @@
 
 ###
 
-### I am a python developer with experience building APIs and carrying out exploratory analysis of data.
+### I am a python developer with experience building APIs.
 
 ###
 
 <br clear="both">
 
-  - 🔭 I’m currently working on **building my portfolio**<br><br>
-  - 🌱 I’m currently learning **Data Science**<br><br>
+  - 🔭 I’m currently working on **building backend applications**<br><br>
+  - 🌱 I’m currently learning **C#**<br><br>
   - 👯 I’m looking to collaborate on **exciting projects**<br><be>
 
 
