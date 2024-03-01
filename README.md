@@ -26,14 +26,14 @@
 ###
 
 ### I am a Software Engineer with experience developing full-stack applications with Python (Django) 
-### and REST APIs with Django Rest Framework and ASP.NET CORE
+### and REST APIs with Django Rest Framework and .NET CORE
 
 ###
 
 <br clear="both">
 
   - 🔭 I’m currently working on **developing an API for an innovative mobile banking feature**<br><br>
-  - 🌱 I’m currently learning **C# and ASP.NET CORE**<br><br>
+  - 🌱 I’m currently learning **C# and .NET CORE**<br><br>
   - 👯 I’m looking to collaborate on **challenging and exciting projects**<br><be>
 
 
@@ -42,13 +42,17 @@
   <br><be> 
   <br><be>
   <h2 align="left">🔥 My Projects :</h2>
-  
-  <br><be>
-  
 
   <ul align="left">
-    <li><h3><a href="http://51.20.37.75">Tourism Lagos</a></h3></li>
-    <li><h3><a href="http://13.48.58.5">LannisterPay (TPSS)</a></h3></li>
+    <li>
+      <h2><a href="http://13.51.172.62">Tourism Lagos</a></h2>
+      <h3>A Full-Stack Django web application for users to create, view, and get directions to exciting Tourism Locations in Lagos, Nigeria.</h3>
+    </li>
+    <br><be>
+    <li>
+      <h2><a href="http://13.60.22.66">LannisterPay (TPSS)</a></h2>
+      <h3>A REST API built with Django rest framework to create a Transaction Payment Splitting Service (TPSS) - (A Flutterwave assigned task)</h3>
+    </li>
   </ul>
 </div>
 
