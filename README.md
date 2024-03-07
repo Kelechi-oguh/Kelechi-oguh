@@ -51,7 +51,12 @@
     <br><be>
     <li>
       <h2><a href="http://13.60.22.66">LannisterPay (TPSS)</a></h2>
-      <h3>A REST API built with Django rest framework to create a Transaction Payment Splitting Service (TPSS) - (A Flutterwave assigned task)</h3>
+      <h3>A REST API built with Django rest framework to create a Transaction Payment Splitting Service (TPSS) - (A Flutterwave assigned task).</h3>
+    </li>
+    <br><be>
+    <li>
+      <h2><a href="https://github.com/jeckdix/loanApi">LoanApi</a></h2>
+      <h3>A REST API built with ASP.NET CORE. The service allows users to sign up, login, create their profile, and apply for existing loan types.</h3>
     </li>
   </ul>
 </div>
